@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+python-dotenv
+google-genai
+matplotlib
+reportlab
+bcrypt
